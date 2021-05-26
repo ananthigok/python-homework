@@ -1,0 +1,7 @@
+
+report = {
+    "count" : "", # quantity
+    "revenue" : "", # price * quantity
+    "cogs" : "", # cost * quantity
+    "profit" : "" # calculate profit 
+}
